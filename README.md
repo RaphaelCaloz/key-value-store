@@ -1,1 +1,1 @@
-# key-value-store2
+# key-value-store
